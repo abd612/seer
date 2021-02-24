@@ -2,7 +2,9 @@
 
 Seer is a Computer Vision and Machine Learning based Device for Visually Impaired, built using Raspberry Pi and coded in Python.
 
-<img src="https://github.com/abd612/seer/blob/master/documentation/seer-logo.png" width="200"  style="vertical-align:middle">
+<p align="center">
+  <img src="https://github.com/abd612/seer/blob/master/documentation/seer-logo.png" width="200">
+</p>
 
 ## Description
 
