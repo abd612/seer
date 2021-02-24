@@ -4,6 +4,8 @@ Seer is a Computer Vision and Machine Learning based Device for Visually Impaire
 
 ![seer-logo](documentation/seer-logo.png)
 
+<img src="https://github.com/abd612/seer/blob/master/documentation/seer-logo.png" width="200">
+
 ## Description
 
 * Language: Python
