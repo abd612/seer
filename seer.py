@@ -110,15 +110,12 @@ engine.say("Push button 3 for text recognition.")
 engine.runAndWait()
 
 GPIO.setwarnings(False)
-
 GPIO.setmode(GPIO.BOARD)
 
 GPIO.setup(3, GPIO.OUT)
 GPIO.setup(7, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-
 GPIO.setup(11, GPIO.OUT)
 GPIO.setup(15, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-
 GPIO.setup(19, GPIO.OUT)
 GPIO.setup(23, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
@@ -150,7 +147,6 @@ while True:
         text_recognition()
 
 GPIO.cleanup()
-
 print("Exiting application")
 
 
